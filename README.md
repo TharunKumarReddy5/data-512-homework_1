@@ -5,8 +5,8 @@
 ![closedpullrequests](https://img.shields.io/github/issues-pr-closed-raw/TharunKumarReddy5/data-512-homework_1.svg)
 
 # data-512-homework_1
-DATA 512 Human Centered Data Science Homework 1
-Homework 1 for DATA 512 Human Centered Data Science course at the University of Washington - Masters in Data Science program
+
+This repository contains the Homework 1 for DATA 512 Human Centered Data Science course at the University of Washington - Masters in Data Science program
 
 # Professionalism & Reproducibility : Goal
 

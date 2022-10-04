@@ -40,7 +40,6 @@ Here are the main folders in our github data-512-homework_1 repository:
 ├── LICENSE
 ├── dinosaur_genera.cleaned.SEPT.2022.xlsx
 ├── dinosaurs_all.xlsx
-├── requirements.txt
 ├── json
 │   ├── dino_monthly_cumulative_201507-202209.json
 │   ├── dino_monthly_desktop_201507-202209.json

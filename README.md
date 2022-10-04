@@ -3,13 +3,11 @@ Human Centered Design Homework 1
 
 
 # ml-pipeline-analyzer
-[![Build Status](https://app.travis-ci.com/TharunKumarReddy5/ml-pipeline-analyzer.svg?branch=main)](https://app.travis-ci.com/TharunKumarReddy5/ml-pipeline-analyzer)
-[![Coverage Status](https://coveralls.io/repos/github/TharunKumarReddy5/ml-pipeline-analyzer/badge.svg?branch=main&service=github&kill_cache=1)](https://coveralls.io/github/TharunKumarReddy5/ml-pipeline-analyzer?branch=main&service=github&kill_cache=1)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-![contributors](https://img.shields.io/github/contributors/TharunKumarReddy5/ml-pipeline-analyzer.svg)
-![codesize](https://img.shields.io/github/languages/code-size/TharunKumarReddy5/ml-pipeline-analyzer.svg) 
-![pullrequests](https://img.shields.io/github/issues-pr/TharunKumarReddy5/ml-pipeline-analyzer.svg) 
-![closedpullrequests](https://img.shields.io/github/issues-pr-closed-raw/TharunKumarReddy5/ml-pipeline-analyzer.svg)
+![contributors](https://img.shields.io/github/contributors/TharunKumarReddy5/data-512-homework_1.svg)
+![codesize](https://img.shields.io/github/languages/code-size/TharunKumarReddy5/data-512-homework_1.svg) 
+![pullrequests](https://img.shields.io/github/issues-pr/TharunKumarReddy5/data-512-homework_1.svg) 
+![closedpullrequests](https://img.shields.io/github/issues-pr-closed-raw/TharunKumarReddy5/data-512-homework_1.svg)
 
 
 # Machine Learning Pipeline Analyzer (MLPA)
@@ -17,15 +15,10 @@ Human Centered Design Homework 1
 Machine Learning Pipeline Analyzer (MLPA) is a python package that at its core analyzes, suggests and visualizes machine learning pipelines.
 
 One of the primary goals of this package is to provide the user with a self-intuitive visual diagram of the pipeline model that explains the various components of the model and its respective attributes while also suggesting the changes and best pipeline model for the user needs.
-[Try it!](https://ml-pipeline-viz.herokuapp.com/)
 
 ## Goal
 
-As a machine learning engineer or a Data Science engineer, we often create ML pipelines that perform multiple tasks like:  
-Data extraction -> Data Cleaning -> Data Manipulation -> Feature Selection/Reduction -> Model train and predict -> Cross Validation -> Model load/save
-
-However, as the various components of a pipeline increase, creating a manual flowchart is not feasible but rather hard to understand/track. And although, there are certain already existing python packages leveraging DAG to visualize these ML pipelines, yet they can be hard to explore and understand.
-Therefore, our goal was to create a package that automates the daunting process of visualizing ML pipelines while also providing a capability to suggest the changes or best pipeline modes for the user inputted dataframes. 
+The goal of this project is to 
 
 ## Datasource Information
 

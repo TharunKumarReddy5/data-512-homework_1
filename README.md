@@ -14,7 +14,7 @@ data-512-homework_1 project is an analysis exercise with primary goal to learn a
 
 ## Datasource Information
 
-The data for this project is extracted from the Pageviews API. The Pageviews API (documentation, endpoint) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through the previous complete month.Leveraging the API, I collected the pageviews information using a subset of Wikipedia article pages. Please find below the subset of the English Wikipedia that represents a large number of dinosaur related articles.
+The data for this project is extracted from the Pageviews API. The datasource endpoint is licensed under the [CC-BY-SA 3.0]( CC-BY-SA 3.0 and GFDL licenses) and [GFDL licenses]( CC-BY-SA 3.0 and GFDL licenses). The Pageviews API (documentation, endpoint) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through the previous complete month. Leveraging the API, I collected the pageviews information using a subset of Wikipedia article pages from July 2015 to September 2022. Please find below the subset of the English Wikipedia that represents a large number of dinosaur related articles.
 
  - [Pageviews API Endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)
  - [Pageviews API Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)

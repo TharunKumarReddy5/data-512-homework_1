@@ -51,6 +51,8 @@ Here are the main folders in our github data-512-homework_1 repository:
 ├── requirements.txt
 ```
 ## Input Data Files
+dinosaur_genera.cleaned.SEPT.2022.xlsx - Input data file that contains the subset of article names of dinosaur wikipedia pages.
+
 
 ## Output Data Files
 
